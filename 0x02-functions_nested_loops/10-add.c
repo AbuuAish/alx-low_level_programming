@@ -11,5 +11,3 @@ int add(int num1, int num2)
 {
 	return (num1 + num2);
 }
-Footer
-© 2022 GitHub, Inc.
